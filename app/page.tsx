@@ -88,7 +88,7 @@ export default function Home() {
           <div className="eyebrow"><span />UI/UX &amp; Product Designer.</div>
           <h1>Designing thoughtful digital experiences.</h1>
           <p>I&apos;m a Product Designer with experience in UI/UX design, user-centered problem solving, and digital product experiences. I enjoy transforming complex ideas into intuitive, accessible, and visually engaging interfaces.</p>
-          <a href="#selected-work" className="button-primary">Explore My Work <ArrowDown size={16} aria-hidden="true" /></a>
+          <a href="#selected-work" className="button-primary hero-cta">Explore My Work <ArrowDown size={16} aria-hidden="true" /></a>
         </div></div>
       </section>
 
